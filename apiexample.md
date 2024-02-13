@@ -6,7 +6,7 @@ This document describes a generic REST API, including introduction, HTTP Methods
 
 * [Introduction](#introduction)
 * [HTTP Methods](#http-methods)
-* [HTTP Status Codes](http-status-codes)
+* [HTTP Status Codes](#http-status-codes)
 * [Authentication](#authentication)
 * [Requests](#requests)
 * [Responses](#responses)

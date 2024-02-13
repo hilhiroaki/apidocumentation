@@ -64,7 +64,7 @@ When you perform a request, you are requesting a specific information to the ser
 
 If the resource requested is found on the server, it must return a successful response (200, for instance) along with the response body. The response body usually comes in JSON format, with the requested information.
 
-### Request and Reponse Examples
+### Request and Response Examples
 
 #### POST
 
